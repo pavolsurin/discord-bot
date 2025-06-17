@@ -12,7 +12,7 @@ A simple Discord bot built with Go.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/discord-bot.git
+    git clone https://github.com/pavolsurin/discord-bot.git
     cd discord-bot
     ```
 
